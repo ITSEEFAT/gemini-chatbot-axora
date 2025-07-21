@@ -113,6 +113,18 @@ Thanks to **Google AI Studio** and **Gemini Pro** for API access and support.
 
 ---
 
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this software as long as the original license and copyright 
+notice are included in all copies or substantial portions of the software.
+
+> © 2025 Seefat — G.L. Bajaj Institute of Technology and Management
+
+Read the full license in the [LICENSE](./LICENSE) file.
+
+
 ## 📢 Contact
 
 Feel free to reach out for collaboration or feedback!
