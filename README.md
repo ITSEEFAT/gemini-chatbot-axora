@@ -109,7 +109,7 @@ Thanks to **Google AI Studio** and **Gemini Pro** for API access and support.
 
 ## 🌐 Live Demo
 
-(You can deploy it using Vercel or Netlify and paste the link here)
+(https://gemini-chatbot-axora-268cr7jip-seefats-projects.vercel.app/)
 
 ---
 
