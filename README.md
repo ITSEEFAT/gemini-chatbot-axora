@@ -129,7 +129,7 @@ Read the full license in the [LICENSE](./LICENSE) file.
 
 Feel free to reach out for collaboration or feedback!
 
-- 📧 Email: [YourEmailHere@example.com]
+- 📧 Email: [seefatprofessional@gmail.com]
 - 🌐 GitHub: [https://github.com/ITSEEFAT](https://github.com/ITSEEFAT)
 
 ---
